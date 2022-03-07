@@ -1,0 +1,10 @@
+{
+  "name": "EmployeeServiceSOAP",
+  "path": "/soap/service/employee",
+  "state": "unpublished",
+  "organization": "dev",
+  "apiSpecification": {
+    "resource": "src/main/resources/wsdl.url"
+  },
+  "backendBasepath": "${BACKEND_PROTOCOL}://${BACKEND_HOST}:${BACKEND_PORT}/soap/service/employee"
+}
