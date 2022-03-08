@@ -6,5 +6,5 @@
   "apiSpecification": {
     "resource": "src/main/resources/wsdl.url"
   },
-  "backendBasepath": "${BACKEND_PROTOCOL}://${BACKEND_HOST}:${BACKEND_PORT}/soap/service/employee"
+  "backendBasepath": "${BACKEND_PROTOCOL}://${BACKEND_HOST}:${BACKEND_PORT}"
 }
